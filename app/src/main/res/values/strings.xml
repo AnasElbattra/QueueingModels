@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Queueindg Models</string>
+
+    <string name="L">L</string>
+    <string name="Lq">Lq</string>
+    <string name="W">W</string>
+    <string name="Wq">Wq</string>
+    <string name="resultM1">res</string>
+    <string name="determnistic">D/D/1</string>
+    <string name="memoryless">M/M/1</string>
+    <string name="memorylessK">M/M/1/K</string>
+    <string name="lamda">"λ "</string>
+    <string name="miu">μ</string>
+    <string name="time">t</string>
+    <string name="Result">result</string>
+    <string name="n">n(t)</string>
+    <string name="K">k</string>
+    <string name="Ti">ti</string>
+    <string name="dd">D/D/1/K-1</string>
+    <string name="MM">M</string>
+    <string name="MMC">M/M/C</string>
+    <string name="C">c</string>
+    <string name="MMCk">M/M/c/K</string>
+
+
+</resources>

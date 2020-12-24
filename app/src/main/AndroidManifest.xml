@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.android.queueindgmodels">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".InMMcK"
+            android:label="@string/MMCk"></activity>
+        <activity android:name=".InMMC"
+            android:label="@string/MMC"/>
+        <activity android:name=".InMk"
+            android:label="@string/memorylessK"/>
+        <activity android:name=".InDk"
+            android:label="@string/dd"/>
+        <activity android:name=".InM1"
+            android:label="@string/memoryless"/>
+        <activity android:name=".InD1"
+            android:label="@string/determnistic"/>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
